@@ -1,0 +1,113 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Loki Roki\PCB1.PcbDoc
+Date     : 07-04-2026
+Time     : 23:10:40
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=0.254mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=0.508mm) (Preferred=0.381mm) (InNetClass('All Nets'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.102mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.04mm < 0.102mm) Between Pad C101-2(165.608mm,81.629mm) on Charge And Via (166.294mm,81.788mm) from Digital to Charge [Bottom Solder] Mask Sliver [0.04mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad J201-1(149.962mm,85.451mm) on Digital And Pad J201-2(149.462mm,85.451mm) on Digital [Top Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.09mm < 0.102mm) Between Pad J201-1(149.962mm,85.451mm) on Digital And Via (150.036mm,86.561mm) from Digital to Charge [Top Solder] Mask Sliver [0.09mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad J201-10(145.462mm,85.451mm) on Digital And Pad J201-9(145.962mm,85.451mm) on Digital [Top Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad J201-2(149.462mm,85.451mm) on Digital And Pad J201-3(148.962mm,85.451mm) on Digital [Top Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad J201-3(148.962mm,85.451mm) on Digital And Pad J201-4(148.462mm,85.451mm) on Digital [Top Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad J201-4(148.462mm,85.451mm) on Digital And Pad J201-5(147.962mm,85.451mm) on Digital [Top Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad J201-5(147.962mm,85.451mm) on Digital And Pad J201-6(147.462mm,85.451mm) on Digital [Top Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad J201-6(147.462mm,85.451mm) on Digital And Pad J201-7(146.962mm,85.451mm) on Digital [Top Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad J201-7(146.962mm,85.451mm) on Digital And Pad J201-8(146.462mm,85.451mm) on Digital [Top Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad J201-8(146.462mm,85.451mm) on Digital And Pad J201-9(145.962mm,85.451mm) on Digital [Top Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.086mm < 0.102mm) Between Pad J201-M1(151.892mm,87.311mm) on Digital And Via (150.036mm,86.561mm) from Digital to Charge [Top Solder] Mask Sliver [0.086mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.09mm < 0.102mm) Between Pad MD201-22(169.465mm,73.828mm) on Digital And Via (168.027mm,74.463mm) from Digital to Charge [Top Solder] Mask Sliver [0.09mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.09mm < 0.102mm) Between Pad MD201-23(169.465mm,75.098mm) on Digital And Via (168.027mm,74.463mm) from Digital to Charge [Top Solder] Mask Sliver [0.09mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.092mm < 0.102mm) Between Pad MD201-25(168.465mm,79.153mm) on Digital And Via (169.367mm,80.112mm) from Digital to Charge [Top Solder] Mask Sliver [0.092mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad R101-1(171.571mm,74.93mm) on Charge And Pad R101-2(170.821mm,74.93mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad R102-1(171.444mm,72.009mm) on Charge And Pad R102-2(170.694mm,72.009mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad R111-1(157.226mm,70.297mm) on Charge And Pad R111-2(157.226mm,71.247mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.046mm < 0.102mm) Between Pad R201-1(154.906mm,58.574mm) on Digital And Via (154.178mm,59.055mm) from Digital to Charge [Top Solder] Mask Sliver [0.046mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.063mm < 0.102mm) Between Pad R201-2(154.906mm,59.574mm) on Digital And Via (154.178mm,59.055mm) from Digital to Charge [Top Solder] Mask Sliver [0.063mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-1(168.926mm,58.879mm) on Charge And Pad U103-11(169.926mm,57.404mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad U103-1(168.926mm,58.879mm) on Charge And Pad U103-2(169.426mm,58.879mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-10(168.926mm,55.929mm) on Charge And Pad U103-11(169.926mm,57.404mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad U103-10(168.926mm,55.929mm) on Charge And Pad U103-9(169.426mm,55.929mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-11(169.926mm,57.404mm) on Charge And Pad U103-2(169.426mm,58.879mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-11(169.926mm,57.404mm) on Charge And Pad U103-3(169.926mm,58.879mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-11(169.926mm,57.404mm) on Charge And Pad U103-4(170.426mm,58.879mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-11(169.926mm,57.404mm) on Charge And Pad U103-5(170.926mm,58.879mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-11(169.926mm,57.404mm) on Charge And Pad U103-6(170.926mm,55.929mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-11(169.926mm,57.404mm) on Charge And Pad U103-7(170.426mm,55.929mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-11(169.926mm,57.404mm) on Charge And Pad U103-8(169.926mm,55.929mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.085mm < 0.102mm) Between Pad U103-11(169.926mm,57.404mm) on Charge And Pad U103-9(169.426mm,55.929mm) on Charge [Bottom Solder] Mask Sliver [0.085mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad U103-2(169.426mm,58.879mm) on Charge And Pad U103-3(169.926mm,58.879mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad U103-3(169.926mm,58.879mm) on Charge And Pad U103-4(170.426mm,58.879mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad U103-4(170.426mm,58.879mm) on Charge And Pad U103-5(170.926mm,58.879mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad U103-6(170.926mm,55.929mm) on Charge And Pad U103-7(170.426mm,55.929mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad U103-7(170.426mm,55.929mm) on Charge And Pad U103-8(169.926mm,55.929mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.08mm < 0.102mm) Between Pad U103-8(169.926mm,55.929mm) on Charge And Pad U103-9(169.426mm,55.929mm) on Charge [Bottom Solder] Mask Sliver [0.08mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.037mm < 0.102mm) Between Pad U202-7(160.979mm,51.586mm) on Digital And Via (160.185mm,51.219mm) from Digital to Charge [Top Solder] Mask Sliver [0.037mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.064mm < 0.102mm) Between Via (161.493mm,56.718mm) from Digital to Charge And Via (161.773mm,57.451mm) from Digital to Charge [Top Solder] Mask Sliver [0.064mm] / [Bottom Solder] Mask Sliver [0.064mm]
+Rule Violations :40
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad C105-1(162.196mm,85.528mm) on Charge And Text "C111" (162.027mm,83.744mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.148mm < 0.15mm) Between Pad DS102-1(162.306mm,77.636mm) on Charge And Track (161.557mm,77.1mm)(161.557mm,79.872mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.148mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.148mm < 0.15mm) Between Pad DS102-1(162.306mm,77.636mm) on Charge And Track (163.055mm,77.1mm)(163.055mm,79.872mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.148mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.148mm < 0.15mm) Between Pad DS102-2(162.306mm,79.336mm) on Charge And Track (161.557mm,77.1mm)(161.557mm,79.872mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.148mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.148mm < 0.15mm) Between Pad DS102-2(162.306mm,79.336mm) on Charge And Track (163.055mm,77.1mm)(163.055mm,79.872mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.148mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad U101-3(160.65mm,83.549mm) on Charge And Text "C111" (162.027mm,83.744mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.073mm < 0.15mm) Between Pad U201-2(156.491mm,84.001mm) on Digital And Track (156.573mm,81.43mm)(156.573mm,83.103mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.073mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.073mm < 0.15mm) Between Pad U201-3(157.761mm,84.001mm) on Digital And Track (158.046mm,81.43mm)(158.046mm,83.103mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.073mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.073mm < 0.15mm) Between Pad U201-5(160.301mm,84.001mm) on Digital And Track (159.973mm,81.43mm)(159.973mm,83.103mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.073mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.073mm < 0.15mm) Between Pad U201-5(160.301mm,84.001mm) on Digital And Track (160.427mm,81.43mm)(160.427mm,83.103mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.073mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.073mm < 0.15mm) Between Pad U201-6(161.571mm,84.001mm) on Digital And Track (161.899mm,81.43mm)(161.899mm,83.103mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.073mm]
+Rule Violations :11
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "C101" (62.738mm,86.996mm) on Bottom Overlay And Text "Q101" (63.019mm,88.774mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "C111" (162.027mm,83.744mm) on Bottom Overlay And Track (161.6mm,81.074mm)(161.6mm,84.124mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "C111" (162.027mm,83.744mm) on Bottom Overlay And Track (161.6mm,84.124mm)(162.3mm,84.124mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "C111" (162.027mm,83.744mm) on Bottom Overlay And Track (162.171mm,84.828mm)(163.171mm,84.828mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.046mm < 0.254mm) Between Text "C111" (162.027mm,83.744mm) on Bottom Overlay And Track (162.3mm,81.074mm)(162.3mm,84.124mm) on Bottom Overlay Silk Text to Silk Clearance [0.046mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "Q101" (63.019mm,88.774mm) on Bottom Overlay And Text "R103" (62.864mm,92.964mm) on Bottom Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :6
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (158.14mm,58.563mm)(158.404mm,58.826mm) on Digital 
+   Violation between Net Antennae: Track (159.918mm,58.877mm)(160.198mm,59.157mm) on Power 
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 59
+Waived Violations : 0
+Time Elapsed        : 00:00:00
